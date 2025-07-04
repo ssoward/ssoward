@@ -1,6 +1,5 @@
-<!-- Profile photo -->
 <p align="center">
-  <img src="![image1](image1)" width="200" alt="Scott Soward"/>
+  <img src="scott soward.png" width="200" alt="Scott Soward"/>
 </p>
 
 <h1 align="center">Hi, I'm Scott Soward 👋</h1>
@@ -28,8 +27,9 @@
 
 ### 🚀 Featured Project
 
-- **But Did You Die?**  
-  A fun and motivating project about pushing boundaries and having a good laugh. *(Check my recent repos for details!)*
+- [**But Did You Die?**](https://github.com/ssoward/butdidyoudie)  
+  A tribute to my wife Maggie’s miraculous story—her cardiac arrest, 30 minutes without a heartbeat, and her remarkable return to me and our family. This project celebrates faith, resilience, and community support.  
+  🌐 Live site: [butdidyoudie.life](https://butdidyoudie.life)
 
 ### 🏓 Fun Facts
 
